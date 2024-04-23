@@ -17,7 +17,7 @@ export function Players() {
       <Form>
         <Input placeholder="Nome da turma" autoCorrect={false} />
 
-        {/* <ButtonIcon icon="add" />  */}
+         <ButtonIcon icon="home" /> 
       </Form>
     </Container>
   );
